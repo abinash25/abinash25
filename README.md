@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abinash25
+- 👋 Hi, I’m Abinash Sahani
 - 👀 I’m interested in ...DATA ANALYST
 - 🌱 I’m currently learning ...MACHINE LEARNING
 - 💞️ I’m looking to collaborate on ...
